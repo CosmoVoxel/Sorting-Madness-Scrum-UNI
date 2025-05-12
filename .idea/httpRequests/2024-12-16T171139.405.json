@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-12-16T16:11:39.853+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "",
+  "path": "/sort"
+}

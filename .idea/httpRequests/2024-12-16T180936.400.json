@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-12-16T17:09:35.999+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "",
+  "path": "/sort"
+}

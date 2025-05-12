@@ -1,0 +1,22 @@
+[
+  {
+    "algorithm": "QuickSort",
+    "sortedData": [
+      1,
+      2,
+      3,
+      7
+    ],
+    "executionTimeNs": 9200
+  },
+  {
+    "algorithm": "MergeSort",
+    "sortedData": [
+      1,
+      2,
+      3,
+      7
+    ],
+    "executionTimeNs": 23000
+  }
+]

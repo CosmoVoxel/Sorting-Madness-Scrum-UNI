@@ -1,0 +1,38 @@
+[
+  {
+    "algorithm": "QuickSort",
+    "sortedData": [
+      {
+        "name": "Eve",
+        "age": 22
+      },
+      {
+        "name": "Alice",
+        "age": 25
+      },
+      {
+        "name": "Bob",
+        "age": 30
+      }
+    ],
+    "executionTimeNs": 18800
+  },
+  {
+    "algorithm": "MergeSort",
+    "sortedData": [
+      {
+        "name": "Eve",
+        "age": 22
+      },
+      {
+        "name": "Alice",
+        "age": 25
+      },
+      {
+        "name": "Bob",
+        "age": 30
+      }
+    ],
+    "executionTimeNs": 15000
+  }
+]

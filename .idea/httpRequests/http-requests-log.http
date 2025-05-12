@@ -1,0 +1,455 @@
+GET http://localhost:8080/sort/primitives?algo=QuickSort, MergeSort&data=[2, 1, 3, 7]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T203331.200.json
+
+###
+
+GET http://localhost:8080/sort/objects?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T203326.200.json
+
+###
+
+GET http://localhost:8080/sort/primitives?algo=QuickSort, MergeSort&data=[2, 1, 3, 7]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T202420.200.json
+
+###
+
+GET http://localhost:8080/sort/objects?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T202417.200.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T202330.404.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T201221.200.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort, MergeSort&data=[2, 1, 3, 7]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T201207.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort, MergeSort&attr=age&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T200138.200.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=age&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T195756.200.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T195547.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T195433.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T193821.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T193719.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T193657.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T193004.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T183837.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T183619.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T182753.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort,MergeSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T182518.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=QuickSort,MergeSort&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T182109.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T181832.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T181616.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T181614.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&datalist=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T181538.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T181345.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T181114.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T181021.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T181020.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T180937.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T180936.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T180923.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T180920.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T180842.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2024-12-16T180343.500.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2024-12-16T180246.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2024-12-16T180245.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name": "Alice", "age": 25}, {"name": "Bob", "age": 30}, {"name": "Eve", "age": 22}]
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2024-12-16T180243.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name
+Content-Type: application/json
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 100
+
+[
+  { "name": "Alice", "age": 25 },
+  { "name": "Bob", "age": 30 },
+  { "name": "Eve", "age": 22 }
+]
+
+<> 2024-12-16T180152.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name
+Content-Type: application/json
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 100
+
+[
+  { "name": "Alice", "age": 25 },
+  { "name": "Bob", "age": 30 },
+  { "name": "Eve", "age": 22 }
+]
+
+<> 2024-12-16T180151.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name
+Content-Type: application/json
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 100
+
+[
+  { "name": "Alice", "age": 25 },
+  { "name": "Bob", "age": 30 },
+  { "name": "Eve", "age": 22 }
+]
+
+<> 2024-12-16T175947.500.json
+
+###
+
+POST http://localhost:8080/sort?algo=quick,merge&attr=name
+Content-Type: application/json
+Accept: application/json
+Content-Length: 100
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+[
+  { "name": "Alice", "age": 25 },
+  { "name": "Bob", "age": 30 },
+  { "name": "Eve", "age": 22 }
+]
+
+<> 2024-12-16T175224.405.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T175122.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T174939.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T173603.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T173602.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T173547.400.json
+
+###
+
+GET http://localhost:8080/sort?algo=quick,merge&attr=name&data=[{"name":"Alice","age":25},{"name":"Bob","age":30}]
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-16T173542.400.json
+
+###
+

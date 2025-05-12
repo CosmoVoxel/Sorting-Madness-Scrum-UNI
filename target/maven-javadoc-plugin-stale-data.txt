@@ -1,0 +1,98 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Mateusz/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.3.3.RELEASE/spring-boot-starter-web-2.3.3.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/boot/spring-boot-starter/2.3.3.RELEASE/spring-boot-starter-2.3.3.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/boot/spring-boot/2.3.3.RELEASE/spring-boot-2.3.3.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.3.3.RELEASE/spring-boot-autoconfigure-2.3.3.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.3.3.RELEASE/spring-boot-starter-logging-2.3.3.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar;C:/Users/Mateusz/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar;C:/Users/Mateusz/.m2/repository/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar;C:/Users/Mateusz/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar;C:/Users/Mateusz/.m2/repository/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar;C:/Users/Mateusz/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.3.3.RELEASE/spring-boot-starter-json-2.3.3.RELEASE.jar;C:/Users/Mateusz/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.jar;C:/Users/Mateusz/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.jar;C:/Users/Mateusz/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.jar;C:/Users/Mateusz/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/2.3.3.RELEASE/spring-boot-starter-tomcat-2.3.3.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.37/tomcat-embed-core-9.0.37.jar;C:/Users/Mateusz/.m2/repository/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar;C:/Users/Mateusz/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.37/tomcat-embed-websocket-9.0.37.jar;C:/Users/Mateusz/.m2/repository/org/springframework/spring-web/5.2.8.RELEASE/spring-web-5.2.8.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/spring-beans/5.2.8.RELEASE/spring-beans-5.2.8.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/spring-webmvc/5.2.8.RELEASE/spring-webmvc-5.2.8.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/spring-aop/5.2.8.RELEASE/spring-aop-5.2.8.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/spring-context/5.2.8.RELEASE/spring-context-5.2.8.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/spring-expression/5.2.8.RELEASE/spring-expression-5.2.8.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/spring-core/5.2.8.RELEASE/spring-core-5.2.8.RELEASE.jar;C:/Users/Mateusz/.m2/repository/org/springframework/spring-jcl/5.2.8.RELEASE/spring-jcl-5.2.8.RELEASE.jar;C:/Users/Mateusz/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0.jar;C:/Users/Mateusz/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.jar;C:/Users/Mateusz/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0.jar;C:/Users/Mateusz/.m2/repository/org/projectlombok/lombok/1.18.36/lombok-1.18.36.jar;C:/Users/Mateusz/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar;C:/Users/Mateusz/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar;C:/Users/Mateusz/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java;C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sorting-madness 2.4.1 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'sorting-madness 2.4.1 API'
+pl.put.poznan.sorting.app
+pl.put.poznan.sorting.logic.algorithms
+pl.put.poznan.sorting.logic.context
+pl.put.poznan.sorting.logic
+pl.put.poznan.sorting.rest
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/app/SortingMadnessApplication.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/algorithms/BubbleSort.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/algorithms/HeapSort.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/algorithms/InsertSort.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/algorithms/MergeSort.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/algorithms/QuickSort.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/algorithms/SelectionSort.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/algorithms/SortStrategy.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/context/ComparatorFactory.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/context/SortContext.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/Main.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/SortingMadness.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/logic/SortingResult.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/rest/GlobalExceptionHandler.java'
+'C:/Users/Mateusz/OneDrive/Pulpit/SortingMadness/src/main/java/pl/put/poznan/sorting/rest/SortingMadnessController.java'
+C:\Users\Mateusz\.m2\repository\org\springframework\boot\spring-boot-starter-web\2.3.3.RELEASE\spring-boot-starter-web-2.3.3.RELEASE.jar = 1732110692586
+C:\Users\Mateusz\.m2\repository\org\springframework\boot\spring-boot-starter\2.3.3.RELEASE\spring-boot-starter-2.3.3.RELEASE.jar = 1732110691834
+C:\Users\Mateusz\.m2\repository\org\springframework\boot\spring-boot\2.3.3.RELEASE\spring-boot-2.3.3.RELEASE.jar = 1732110692223
+C:\Users\Mateusz\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.3.3.RELEASE\spring-boot-autoconfigure-2.3.3.RELEASE.jar = 1732110693616
+C:\Users\Mateusz\.m2\repository\org\springframework\boot\spring-boot-starter-logging\2.3.3.RELEASE\spring-boot-starter-logging-2.3.3.RELEASE.jar = 1732110691095
+C:\Users\Mateusz\.m2\repository\org\apache\logging\log4j\log4j-to-slf4j\2.13.3\log4j-to-slf4j-2.13.3.jar = 1732110692403
+C:\Users\Mateusz\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.3\log4j-api-2.13.3.jar = 1732110691609
+C:\Users\Mateusz\.m2\repository\org\slf4j\jul-to-slf4j\1.7.30\jul-to-slf4j-1.7.30.jar = 1732110691093
+C:\Users\Mateusz\.m2\repository\jakarta\annotation\jakarta.annotation-api\1.3.5\jakarta.annotation-api-1.3.5.jar = 1732110691093
+C:\Users\Mateusz\.m2\repository\org\yaml\snakeyaml\1.26\snakeyaml-1.26.jar = 1732110692202
+C:\Users\Mateusz\.m2\repository\org\springframework\boot\spring-boot-starter-json\2.3.3.RELEASE\spring-boot-starter-json-2.3.3.RELEASE.jar = 1732110693270
+C:\Users\Mateusz\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.11.2\jackson-datatype-jdk8-2.11.2.jar = 1732110692280
+C:\Users\Mateusz\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.11.2\jackson-datatype-jsr310-2.11.2.jar = 1732110692479
+C:\Users\Mateusz\.m2\repository\com\fasterxml\jackson\module\jackson-module-parameter-names\2.11.2\jackson-module-parameter-names-2.11.2.jar = 1732110692052
+C:\Users\Mateusz\.m2\repository\org\springframework\boot\spring-boot-starter-tomcat\2.3.3.RELEASE\spring-boot-starter-tomcat-2.3.3.RELEASE.jar = 1732110692685
+C:\Users\Mateusz\.m2\repository\org\apache\tomcat\embed\tomcat-embed-core\9.0.37\tomcat-embed-core-9.0.37.jar = 1732110693965
+C:\Users\Mateusz\.m2\repository\org\glassfish\jakarta.el\3.0.3\jakarta.el-3.0.3.jar = 1732110694333
+C:\Users\Mateusz\.m2\repository\org\apache\tomcat\embed\tomcat-embed-websocket\9.0.37\tomcat-embed-websocket-9.0.37.jar = 1732110693239
+C:\Users\Mateusz\.m2\repository\org\springframework\spring-web\5.2.8.RELEASE\spring-web-5.2.8.RELEASE.jar = 1732110693204
+C:\Users\Mateusz\.m2\repository\org\springframework\spring-beans\5.2.8.RELEASE\spring-beans-5.2.8.RELEASE.jar = 1732110691436
+C:\Users\Mateusz\.m2\repository\org\springframework\spring-webmvc\5.2.8.RELEASE\spring-webmvc-5.2.8.RELEASE.jar = 1732110693437
+C:\Users\Mateusz\.m2\repository\org\springframework\spring-aop\5.2.8.RELEASE\spring-aop-5.2.8.RELEASE.jar = 1732110692264
+C:\Users\Mateusz\.m2\repository\org\springframework\spring-context\5.2.8.RELEASE\spring-context-5.2.8.RELEASE.jar = 1732110692707
+C:\Users\Mateusz\.m2\repository\org\springframework\spring-expression\5.2.8.RELEASE\spring-expression-5.2.8.RELEASE.jar = 1732110692559
+C:\Users\Mateusz\.m2\repository\org\springframework\spring-core\5.2.8.RELEASE\spring-core-5.2.8.RELEASE.jar = 1732110691846
+C:\Users\Mateusz\.m2\repository\org\springframework\spring-jcl\5.2.8.RELEASE\spring-jcl-5.2.8.RELEASE.jar = 1732110692065
+C:\Users\Mateusz\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.0\jackson-databind-2.10.0.jar = 1734286951600
+C:\Users\Mateusz\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.2\jackson-annotations-2.11.2.jar = 1732110692083
+C:\Users\Mateusz\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.0\jackson-core-2.10.0.jar = 1734286950673
+C:\Users\Mateusz\.m2\repository\org\projectlombok\lombok\1.18.36\lombok-1.18.36.jar = 1734286953040
+C:\Users\Mateusz\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar = 1732110691284
+C:\Users\Mateusz\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar = 1732110691416
+C:\Users\Mateusz\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar = 1732110692712
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\src\main\java = 1737841000399
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\generated-sources\annotations = 1737849811290
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\allclasses-index.html = 1737849816655
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\allpackages-index.html = 1737849816663
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\element-list = 1737849816379
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\help-doc.html = 1737849816713
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\index-all.html = 1737849816683
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\index.html = 1737849816638
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\member-search-index.js = 1737849816672
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\module-search-index.js = 1737849816669
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\overview-summary.html = 1737849816700
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\overview-tree.html = 1737849816630
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\package-search-index.js = 1737849816670
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\search.html = 1737849816692
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\tag-search-index.js = 1737849816673
+C:\Users\Mateusz\OneDrive\Pulpit\SortingMadness\target\apidocs\type-search-index.js = 1737849816671

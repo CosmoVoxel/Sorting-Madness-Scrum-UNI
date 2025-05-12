@@ -1,0 +1,14 @@
+pl\put\poznan\sorting\app\SortingMadnessApplication.class
+pl\put\poznan\sorting\rest\GlobalExceptionHandler.class
+pl\put\poznan\sorting\logic\algorithms\BubbleSort.class
+pl\put\poznan\sorting\logic\algorithms\QuickSort.class
+pl\put\poznan\sorting\logic\algorithms\HeapSort.class
+pl\put\poznan\sorting\logic\algorithms\SelectionSort.class
+pl\put\poznan\sorting\logic\algorithms\InsertSort.class
+pl\put\poznan\sorting\logic\algorithms\MergeSort.class
+pl\put\poznan\sorting\logic\SortingMadness.class
+pl\put\poznan\sorting\logic\context\ComparatorFactory.class
+pl\put\poznan\sorting\logic\algorithms\SortStrategy.class
+pl\put\poznan\sorting\rest\SortingMadnessController.class
+pl\put\poznan\sorting\logic\context\SortContext.class
+pl\put\poznan\sorting\logic\SortingResult.class

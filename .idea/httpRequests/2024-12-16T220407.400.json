@@ -1,0 +1,5 @@
+{
+  "error": "Invalid input",
+  "message": "Błąd: Tablica danych do posortowania jest pusta",
+  "status": 400
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "algorithm": "QuickSort",
+    "sortedData": [
+      {
+        "name": "Bob",
+        "age": 30
+      },
+      {
+        "name": "Alice",
+        "age": 31
+      }
+    ],
+    "executionTimeNs": 1867300
+  }
+]

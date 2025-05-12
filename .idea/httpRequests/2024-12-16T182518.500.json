@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-12-16T17:25:18.157+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "",
+  "path": "/sort"
+}
